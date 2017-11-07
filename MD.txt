@@ -1,0 +1,2 @@
+.md stands for Markdown, which is almost plain text, but it has some text markup features.
+It's possible to open these files using any text editor, but it'll have some symbols, where markup should be.
